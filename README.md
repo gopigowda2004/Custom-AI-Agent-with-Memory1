@@ -68,7 +68,8 @@ Assuming the bot saved some memories, create a _new_ thread using the `+` icon. 
 
 You can review the saved memories by clicking the "memory" button.
 
-![Memories Explorer](./static/memories.png)
+<img width="750" height="423" alt="image" src="https://github.com/user-attachments/assets/12c972d0-5a35-4e0c-9ed2-85beb6e3b8e0" />
+
 
 ## How it works
 
